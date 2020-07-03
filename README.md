@@ -1,4 +1,4 @@
-# Splunk Field Calcualtion Script
+# Splunk Field Calculation Script
 A Python script for creating field calculation/alias for multiple add-ons in Splunk Enterprise using props.conf
 
 -Create a file that has your field calculation/alias for all the add-ons
