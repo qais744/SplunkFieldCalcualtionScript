@@ -1,0 +1,8 @@
+app:TA-example
+[<stanza>]
+EVAL-<field_name> = <eval statement>
+EVAL-<field_name> = <eval statement>
+app:Splunk-TA-example2
+[<stanza>]
+EVAL-<field_name> = <eval statement>
+EVAL-<field_name> = <eval statement>
